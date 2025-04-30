@@ -3,3 +3,7 @@
 Hola, mundo! 
 
 ## Construcción y Evolución del Software
+
+## En caso de clonación del proyecto
+Usar el siguiente comando para iniciar los node modules  
+`npm i -g @nestjs/cli`
