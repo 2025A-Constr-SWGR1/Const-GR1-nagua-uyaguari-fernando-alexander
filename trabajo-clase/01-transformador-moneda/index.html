@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Transformador de Monedas</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <main class="contenedor-convertir">
+        <h1>Conversor de Monedas</h1>
+        <div class="grupo-form">
+            <label for="valor">Cantidad</label>
+            <input type="number" id="valor" placeholder="0.00" />
+        </div>
+        <div class="gurpo-form">
+            <label for="monedaOrigen">De</label>
+            <select id="monedaOrigen"></select>
+        </div>
+        <div class="grupo-form">
+            <label for="monedaConvertida">A</label>
+            <select id="monedaConvertida"></select>
+        </div>
+        <button id="botonConvertir">Convertir</button>
+        <p id="resultado" class="resultado"></p>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
