@@ -11,4 +11,4 @@ Usar el siguiente comando para iniciar los node modules
 
 ## Construir un nuevo proyecto
 
-`npm i -g @nestjs/cli`
+`nest new project-name`
