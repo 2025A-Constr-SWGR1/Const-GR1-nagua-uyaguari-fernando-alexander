@@ -1,5 +1,10 @@
 # Taller 4: "Evoluciona tu flujo de trabajo como una API"
 
+## Integrantes
+
+- Mora Ariel
+- Nagua Fernando
+
 ## Descripción del Taller
 
 Este taller analiza cómo la **rutina de gestión de recordatorios** ha evolucionado durante el semestre, comparando diferentes versiones de un enfoque como si fuera una API que recibe actualizaciones y mejoras continuas.

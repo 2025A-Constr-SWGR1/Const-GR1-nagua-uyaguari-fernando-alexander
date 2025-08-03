@@ -1,5 +1,10 @@
 # Taller 3: "Diseña tu propia API diaria"
 
+## Integrantes
+
+- Mora Ariel
+- Nagua Fernando
+  
 ## Descripción del Proyecto
 
 He creado una **API Personal** que permite a mis compañeros consultar información sobre mi disponibilidad, nivel de concentración y recordatorios.
